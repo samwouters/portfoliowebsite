@@ -7,7 +7,7 @@ I made the choice for a portfolio page because I wanted to realize something tha
 
 
 How do people use it?
-People use my portfolio page as a first impression of myself and my services and qualities. All my projects are visible and clients know who they might be dealing with. My website is a one page including a toggler menu and back-to-top button for quick navigation. 
+People use my portfolio page as a first impression of myself and my services and qualities. All my projects are visible and clients know who they might be dealing with. They can scroll through every element and focus on the parts that interests them. My website is a one page including a toggler menu and back-to-top button for quick navigation. 
 
 
 What would a next version include?
