@@ -11,6 +11,4 @@ People use my portfolio page as a first impression of myself and my services and
 
 
 What would a next version include?
-This project is not completely finished yet. A next version would contain: More of my done projects and a clickthrough to a separate window where the specific projects will be explained. This would allow the client or client to get a better idea of what this project entails and what exactly my tasks were in this project. I would also have to take a closer look at the link pages of my social media icons and the contact form.
-
-For the final version I would of course change my dummy texts to personal texts with good copywriting. 
+This project is not completely finished yet. A next version would contain: More of my done projects and a clickthrough to a separate window where the specific projects will be explained. This would allow the client or client to get a better idea of what this project entails and what exactly my tasks were in this project. I would also have to take a closer look at the link pages of my social media icons and the contact form. For the final version I would of course change my dummy texts to personal texts with good copywriting.
