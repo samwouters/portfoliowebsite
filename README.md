@@ -3,7 +3,7 @@
 Why did I make this portfolio website?
 I made this portfolio page because I wanted to realize a custom project using code language. I made this choice because I had no experience in this and I wanted to challenge myself to improve myself and gain more knowledge. Maybe in the future I would like to work as a freelancer for web design/development, this first project will contribute a lot to my development.
 
-I made the choice for a portfolio page because I wanted to realize something that I could also use after this Advanced Course. A portfolio page is of course your business card and also contributes to your own professionalism. It is the first thing a potential client or client can see of you and based on your portfolio he will make a choice to work with you. In short: A portfolio is always useful for my career and is therefore useful for the long term.
+I made the choice for a portfolio page because I wanted to realize something that I could also use after this Advanced Course. A portfolio page is of course your business card and also contributes to your own professionalism. It is the first thing a potential client or agency can see of you and based on your portfolio he will make a choice to work with you. In short: A portfolio is always useful for my career and is therefore useful for the long term.
 
 
 How do people use it?
